@@ -21,4 +21,11 @@ const io=SocketIO(server)
 //  websocket
 io.on('connection', (socket) => { 
     console.log('new conection', socket.id)
+
+    socket.on('coordenadas_de_nave', (data)=>{
+        console.log(data)
+        io.sockets.emit("coordenadas_de_nave", data);
+    })
+   
 })
+

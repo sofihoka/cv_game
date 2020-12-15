@@ -1,4 +1,4 @@
-io()
+const socket = io();
 
 var canvas=document.getElementById("canvas");
 var ctx=canvas.getContext("2d");
@@ -6,8 +6,6 @@ var canvasBuffer = document.createElement("canvas");//para hacer más rápido el
 canvasBuffer.width = canvas.width;
 canvasBuffer.height = canvas.height;
 var ctxBuffer = canvasBuffer.getContext("2d");
-
-
 
 
  //auto
@@ -43,16 +41,27 @@ function dibujarAuto(){
 //        ctxBuffer.drawImage(auto.img, auto.srcx,auto.srcy,auto.w, auto.h, auto.x,auto.y, auto.w, auto.h )
 //        unframe=0;
 //    }
+
 }
 
 function moverAuto(){
     if(auto.izquierda && auto.x<canvas.width - auto.w-50){
-        auto.x+=auto.velocidad;      
+        auto.x+=auto.velocidad;  
+        socket.emit("coordenadas_de_nave",  auto.x);
+        
     }
     if(auto.derecha && auto.x>40){
-        auto.x-=auto.velocidad;                    
+        auto.x-=auto.velocidad;
+        socket.emit("coordenadas_de_nave",  auto.x);               
     }
+   
 }
+
+socket.on('coordenadas_de_nave', (data)=>{
+    console.log(data)
+    auto.x=data;
+}) 
+
     var izq= document.getElementById('izquierda')
     var der= document.getElementById('derecha')
 
@@ -124,3 +133,4 @@ function iniciarPara(){
 }
 
 iniciarPara()
+
