@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="fuente.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <font
+       horiz-adv-x="1024"
+       id="font24"
+       inkscape:label="fuente 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face26"
+         font-family="SVGFont 1"
+         cap-height="0" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph28" />
+      <glyph
+         glyph-name="s"
+         id="glyph32"
+         unicode="s"
+         d="M 58.208327,766.97616 118.7797,758.11931 129.07391,697.7756 74.864713,669.33798 31.067375,712.10629 Z" />
+      <glyph
+         glyph-name="o"
+         id="glyph71" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="843.53347"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="833"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="guide108" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="ascender"
+       id="guide110" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="caps"
+       id="guide112" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="xheight"
+       id="guide114" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="decender"
+       id="guide116" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="640.01733"
+       height="735.9762"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAABeCAYAAAB/wHcjAAAABHNCSVQICAgIfAhkiAAAAZpJREFU eJzt2zFOw0AURdHrKHWWkJIVpE+RMnWWwGayFUTJAigRrIASpPQgetMQybLsGUsZG/v9d9tYsY+m sOPJr+q6JtX961f6gIW1Sn2ohoUEWBH79PDWDVbFQscKK2OhBVbHQgMcAQt/4ChYgFUkLGTuw0ss hQVYP398T3Qp4/fz8p49Rm6FcxmsnsHqGaxeKPDlfKjCgC/nQwVBVviKhQDgJhbEwW0sCIO7sCAK 7sOCIDiFBTFwDguwLnWy3I/vIRczRVIrPCSD1TNYvXDgYrelVMfT7t+3c3q3S0t3PO3GPkW23u3S 0s0NCyOC54iFkcBzxcII4DljoTB47lgoCF4CFgqB99tNia+5qSFYKPTgsaRN9XCPlgarZ7B6Bqtn sHoGq2ewegarFw5c5WYPp+ru8fOmCxnyb3gIuMIGq2eweuHA2ffSU21k77ebSd5veyT+miIWesCq WAgyEt9MfiS+nfRIfFeyI/F9SY7Ep4r3pLWk3fsShVthg9UzWD2D1QsF9ki8ah6JV80j8YiCPRLf SAo8ZAr9F5N+o62tEHH9AAAAAElFTkSuQmCC "
+       id="image52"
+       x="135.8512"
+       y="81.166664" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-s"
+     id="g124" />
+  <sodipodi:guide
+     position="0,250"
+     orientation="0,1"
+     inkscape:label="baseline"
+     id="guide152" />
+  <sodipodi:guide
+     position="0,1000"
+     orientation="0,1"
+     inkscape:label="ascender"
+     id="guide154" />
+  <sodipodi:guide
+     position="0,950"
+     orientation="0,1"
+     inkscape:label="caps"
+     id="guide156" />
+  <sodipodi:guide
+     position="0,750"
+     orientation="0,1"
+     inkscape:label="xheight"
+     id="guide158" />
+  <sodipodi:guide
+     position="0,0"
+     orientation="0,1"
+     inkscape:label="descender"
+     id="guide160" />
+</svg>
